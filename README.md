@@ -5,5 +5,21 @@
 ### Command
 
 ``` Open Your cmd  ```
+### Copy below url and paste
+```git clone https://github.com/sajjadlaghari/get-youtube-videos-and-subscribers-laravel.git ``` 
 
-```git clone  ``` 
+### Run Command
+``` composer install ```
+
+### Setup
+``` Setup your database configuration in .env file```
+
+### Run
+``` php artisan migrate```
+
+### Run
+``` php artisan server```
+
+### Open Browser paste below url
+
+``` http://localhost:8000/ ```
