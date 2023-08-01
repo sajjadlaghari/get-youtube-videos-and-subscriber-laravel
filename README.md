@@ -35,3 +35,8 @@
 ``` http://localhost:8000/ ```
 
 
+### Hit route for get youtube videos and subscribers
+
+``` http://localhost:8000/get-videos ```
+
+
