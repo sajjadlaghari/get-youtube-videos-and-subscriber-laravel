@@ -20,8 +20,8 @@ class YoutubeController extends Controller
     public function get_videos()
     {
 
-        $channel_id = "UCMblgAicMZolovhIsvyNE2Q";
-        $api_key = "AIzaSyBXsVM_joOuetTsu-QVTXhutozG9Q2E7Sk";
+        $channel_id = "and you channel Id";
+        $api_key = "Add Your Api Key";
         $maxResult = 1000;
 
         $api_response = file_get_contents('https://www.googleapis.com/youtube/v3/channels?part=statistics&id='.$channel_id.'&fields=items/statistics/subscriberCount&key='.$api_key);
