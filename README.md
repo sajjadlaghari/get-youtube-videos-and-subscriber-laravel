@@ -4,7 +4,7 @@
 ### Create account
 ``` https://console.cloud.google.com/ ```
 
-* Create project and get youbue API Key *
+``` * Create project and get youtube API Key * ```
 
 
 
