@@ -1,0 +1,19 @@
+.vjs-big-play-button
+{
+    position: absolute !important;
+    justify-content: center !important;
+    align-items: center !important;
+    left: 43% !important;
+    top: 40% !important;
+}
+.youtube-heading
+{
+    text-align: center;
+    font-size: 66px;
+    font-family: fantasy;
+    color: #fff;
+}
+.body
+{
+    background-color: #090202;
+}
